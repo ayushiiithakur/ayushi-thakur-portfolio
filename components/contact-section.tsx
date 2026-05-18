@@ -15,15 +15,15 @@ export function ContactSection() {
               Get In Touch
             </div>
             <h2 className="text-4xl sm:text-5xl font-bold mb-4">
-              Let's <span className="gradient-text">Connect</span>
+              Let&apos;s <span className="gradient-text">Connect</span>
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-6">
               Interested in a PM who operationalizes AI systems, not just uses AI tools?
             </p>
             <div className="bg-gradient-to-r from-primary/10 to-purple-500/10 rounded-xl p-6 border border-primary/20 max-w-3xl mx-auto">
               <p className="text-base text-foreground font-medium">
-                I'm looking for <strong>Project Manager and Program Manager roles</strong> at GCCs and technology companies in <strong>Bengaluru</strong>.
-                If your team is building AI-powered products or scaling operational systems, I'd love to talk.
+                I&apos;m looking for <strong>Project Manager and Program Manager roles</strong> at GCCs and technology companies in <strong>Bengaluru</strong>.
+                If your team is building AI-powered products or scaling operational systems, I&apos;d love to talk.
               </p>
             </div>
           </div>

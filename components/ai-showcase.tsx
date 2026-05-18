@@ -70,7 +70,7 @@ export function AIShowcase() {
             AI <span className="gradient-text">Operational Capabilities</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            These aren't just tools I use—they're enterprise AI capabilities I've operationalized.
+            These aren&apos;t just tools I use—they&apos;re enterprise AI capabilities I&apos;ve operationalized.
             From risk intelligence to workflow automation, I deploy AI systems that improve execution at scale.
           </p>
         </div>
